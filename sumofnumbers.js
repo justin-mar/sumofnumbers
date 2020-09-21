@@ -22,7 +22,6 @@ function sumWhile(num) {
 
 console.log(sumWhile(nums));
 
-
 function sumRecursion(num) {
   if (num.length === 0) {
     return 0;
