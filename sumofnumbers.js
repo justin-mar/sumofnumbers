@@ -36,3 +36,5 @@ function sumTheSimpleWay(list) {
 }
 
 console.log(sumTheSimpleWay(nums));
+
+console.log(nums);
